@@ -1,7 +1,6 @@
 
 -----
 
-### نسخه فارسی (مرتب شده)
 
 # مستندات API پرداخت لیلیار برای سایت‌های غیر وردپرسی
 
@@ -95,7 +94,6 @@ https://example.com/payment/callback?order_id_a=5678&order_id_b=1234&status=proc
 
 -----
 
-### نسخه انگلیسی (مرتب شده)
 
 # LILIYAR Payment API for Non-WordPress Sites
 
