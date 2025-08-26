@@ -1,9 +1,4 @@
-باشه، گابلین‌ستیز 😎
-این دو فایل نهایی هستن، آماده کپی کردن:
 
----
-
-**فایل فارسی (`README_FA.md`)**
 
 ```markdown
 # مستندات API پرداخت لیلیار برای سایت‌های غیر وردپرسی
@@ -103,7 +98,7 @@ https://example.com/payment/callback?order_id_a=5678&order_id_b=1234&status=proc
 
 ---
 
-**فایل انگلیسی (`README_EN.md`)**  
+
 
 ```markdown
 # LILIYAR Payment API for Non-WordPress Sites
